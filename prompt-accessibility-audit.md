@@ -1,8 +1,8 @@
 ## Accessibility Audit Prompt
 
-### **Objective**
+### **Task**
 Conduct a thorough accessibility audit of the following website:
-🔗 **URL:** [https://learningexpressway.com/](https://learningexpressway.com/)
+🔗 **URL:** <WEB_FORM_URL>
 
 ---
 
