@@ -22,7 +22,7 @@ Welcome to **AI Prompts for Software Testers**! This repository provides a colle
 
 # Github Copilot Custom Chat Modes
 
-Welcome to **Github Copilot Custom Chat Modes**! This repository provides a collection of custom chat modes designed to enhance the functionality of GitHub Copilot for various tasks and workflows.
+A collection of custom chat modes designed to enhance the functionality of GitHub Copilot for various tasks and workflows:
 
 ## Test Case Generator
 - **Purpose:** Generate test cases based on user stories or requirements.
