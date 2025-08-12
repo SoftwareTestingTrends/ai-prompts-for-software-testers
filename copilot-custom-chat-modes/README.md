@@ -4,10 +4,14 @@ Welcome to **Github Copilot Custom Chat Modes**! This repository provides a coll
 
 ## Test Case Generator
 - **Purpose:** Generate test cases based on user stories or requirements.
-- **Prompt Link:** [Access the prompt here](/test-case-generator.md)
+- **Prompt Link:** [Access the prompt here](./test-case-generator.md)
 - **Demo Video:** [Make VS Code Smarter With Your Own Chat Mode!](https://www.youtube.com/watch?v=Y_KPr6Cdsco)
 
 ## Test Plan Generator
 - **Purpose:** Create a comprehensive test plan based on project requirements.
-- **Prompt Link:** [Access the prompt here](/test-plan-generator.md)
+- **Prompt Link:** [Access the prompt here](./test-plan-generator.md)
+
+## Playwright Code Reviewer
+- **Purpose:** Review Playwright test code for best practices and improvements.
+- Prompt Link: [Access the prompt here](./Playwright%20Code%20Reviewer.md/Playwright Code Reviewer.md)
 
