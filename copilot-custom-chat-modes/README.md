@@ -13,5 +13,5 @@ Welcome to **Github Copilot Custom Chat Modes**! This repository provides a coll
 
 ## Playwright Code Reviewer
 - **Purpose:** Review Playwright test code for best practices and improvements.
-- Prompt Link: [Access the prompt here](./Playwright%20Code%20Reviewer.md/Playwright Code Reviewer.md)
+- Prompt Link: [Access the prompt here](./playwright-code-reviewer.md)
 
