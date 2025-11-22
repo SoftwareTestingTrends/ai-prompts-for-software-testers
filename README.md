@@ -39,12 +39,22 @@ A collection of custom chat modes designed to enhance the functionality of GitHu
 
 ---
 
-## Contributing
+# Appium MCP Prompts
+
+A collection of prompts designed to work with the Appium MCP Server for mobile application testing:
+
+## Screen Elements and Selectors Analysis - Android
+- **Purpose:** Analyze screen elements and selectors in the Android app.
+- **Prompt Link:** [Access the prompt here](./appium-mcp-prompts/screen-element-selectors.md)
+- **Demo Video:** [Appium + MCP Server: The Fastest Way to Get Mobile Element Selectors](https://www.youtube.com/watch?v=WbBl8i-H6mQ)
+---
+
+# Contributing
 
 Contributions are welcome! Feel free to submit new prompts, improvements, or bug fixes via pull requests.
 
 ---
 
-## License
+# License
 
 This project is licensed under the MIT License.
