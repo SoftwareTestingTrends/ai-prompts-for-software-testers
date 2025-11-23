@@ -49,6 +49,11 @@ A collection of prompts designed to work with the Appium MCP Server for mobile a
 - **Demo Video:** [Appium + MCP Server: The Fastest Way to Get Mobile Element Selectors](https://www.youtube.com/watch?v=WbBl8i-H6mQ)
 ---
 
+## Screen Capture Audit - Android
+- **Purpose:** Capture screenshots of all screens in the Android app.
+- **Prompt Link:** [Access the prompt here](./appium-mcp-prompts/screen-audit.md)
+- **Demo Video:** [📱 Automate Mobile App Exploration with Appium MCP Server + Screenshot Capture (No Manual Tapping!)](https://www.youtube.com/watch?v=AFyqZCOYod0)
+
 # Contributing
 
 Contributions are welcome! Feel free to submit new prompts, improvements, or bug fixes via pull requests.
