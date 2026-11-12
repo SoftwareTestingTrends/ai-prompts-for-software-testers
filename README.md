@@ -7,7 +7,7 @@ Welcome to **AI Prompts for Software Testers**! This repository provides a colle
 ## Testing Techniques with AI
 - **Purpose:** Eight prompts that apply testing techniques (equivalence partitioning, boundary value analysis, decision tables, pairwise, state transitions, error guessing, exploratory testing and code coverage) to a sign-up form, with ChatGPT's real answers and a review of each.
 - **Prompt Link:** [Access the prompts here](./testing-techniques-with-ai/README.md)
-- **Demo Video:** [Why Testers Still Need Testing Techniques When AI Writes the Tests](YOUTUBE_LINK)
+- **Demo Video:** [Why Testers Still Need Testing Techniques When AI Writes the Tests](https://youtu.be/Odbl7yAqYf4)
 
 ## Web Scraping Prompt
 
